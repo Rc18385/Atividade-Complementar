@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2023/02/12 13:27:12.000.709,=C:\Users\Rafael\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2023/02/12 13:27:44.000.154,C:\Users\Rafael\Documents\Embarcadero\Studio\Projects\Unit1.pas=C:\Users\Rafael\Desktop\Atividade Complementar\UfrmPrincipal.pas</Transaction>
+    <Transaction>2023/02/12 13:27:44.000.154,C:\Users\Rafael\Documents\Embarcadero\Studio\Projects\Unit1.dfm=C:\Users\Rafael\Desktop\Atividade Complementar\UfrmPrincipal.dfm</Transaction>
+    <Transaction>2023/02/12 13:27:59.000.122,C:\Users\Rafael\Documents\Embarcadero\Studio\Projects\Project1.dproj=C:\Users\Rafael\Desktop\Atividade Complementar\Atividade_Complementar.dproj</Transaction>
+    <Transaction>2023/02/12 13:28:05.000.995,=C:\Users\Rafael\Desktop\Atividade Complementar\Unit1.pas</Transaction>
+    <Transaction>2023/02/12 13:28:25.000.417,C:\Users\Rafael\Desktop\Atividade Complementar\Unit1.pas=C:\Users\Rafael\Desktop\Atividade Complementar\UFuncionario.pas</Transaction>
+  </Transactions>
+</BorlandProject>
